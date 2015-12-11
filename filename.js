@@ -31,5 +31,6 @@ imgElements = [
 '<img alt="" src="photos/Fri, 11 Dec 2015 09:54:58 GMT.jpg">',
 '<img alt="" src="photos/Fri, 11 Dec 2015 09:56:50 GMT.jpg">',
 '<img alt="" src="photos/Fri, 11 Dec 2015 09:57:07 GMT.jpg">',
-'<img alt="" src="photos/Fri, 11 Dec 2015 09:57:23 GMT.jpg">'
+'<img alt="" src="photos/Fri, 11 Dec 2015 09:57:23 GMT.jpg">',
+'<img alt="" src="photos/Fri, 11 Dec 2015 09:57:32 GMT.jpg">'
 ]
